@@ -1,0 +1,8 @@
+# Inputs
+**/input.txt
+
+# Session for scraping
+session
+
+# Own stuff
+*.png
